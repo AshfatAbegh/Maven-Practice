@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite tests="2" failures="0" name="Surefire test" time="0.009" errors="0">
+  <properties/>
+  <testcase classname="SeleniumTour.AppiumTest" name="iosApps" time="0.004"/>
+  <testcase classname="SeleniumTour.AppiumTest" name="nativeAppAndroid" time="0.0"/>
+</testsuite>

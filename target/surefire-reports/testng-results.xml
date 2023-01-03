@@ -1,0 +1,22 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite">
+    <groups>
+    </groups>
+    <test name="Test">
+      <class name="SeleniumTour.SeleniumTest">
+        <test-method signature="BrowserAutommation()" started-at="2023-01-03T16:59:16Z" name="BrowserAutommation" finished-at="2023-01-03T16:59:16Z" duration-ms="0" status="PASS">
+        </test-method>
+        <test-method signature="elementsUi()" started-at="2023-01-03T16:59:16Z" name="elementsUi" finished-at="2023-01-03T16:59:16Z" duration-ms="0" status="PASS">
+        </test-method>
+      </class>
+      <class name="SeleniumTour.RESTAPITest">
+        <test-method signature="deleteTwitter()" started-at="2023-01-03T16:59:16Z" name="deleteTwitter" finished-at="2023-01-03T16:59:16Z" duration-ms="4" status="PASS">
+        </test-method>
+        <test-method signature="postJira()" started-at="2023-01-03T16:59:16Z" name="postJira" finished-at="2023-01-03T16:59:16Z" duration-ms="1" status="PASS">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
